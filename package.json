@@ -1,0 +1,28 @@
+{
+  "name": "umes-dw2-1p-02-2025-diego-bran",
+  "version": "1.0.0",
+  "description": "Exámen parcial Desarrollo WEB II",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elPatronDB/UMES-DW2-1P-02-2025.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/elPatronDB/UMES-DW2-1P-02-2025/issues"
+  },
+  "homepage": "https://github.com/elPatronDB/UMES-DW2-1P-02-2025#readme",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "joi": "^18.0.1",
+    "mongodb": "^6.18.0"
+  }
+}
